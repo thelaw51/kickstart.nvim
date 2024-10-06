@@ -1,3 +1,3 @@
-return { 
-      require('mini.files').setup()
+return {
+  require('mini.files').setup(),
 }
